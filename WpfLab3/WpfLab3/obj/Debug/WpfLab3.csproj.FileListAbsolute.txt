@@ -1,0 +1,16 @@
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\bin\Debug\WpfLab3.exe.config
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\bin\Debug\WpfLab3.exe
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\bin\Debug\WpfLab3.pdb
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3.csproj.AssemblyReference.cache
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\MainWindow.g.cs
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\App.g.cs
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3_MarkupCompile.cache
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3_MarkupCompile.lref
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\MainWindow.baml
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3.g.resources
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3.Properties.Resources.resources
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3.csproj.GenerateResource.cache
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3.exe
+C:\Users\dimar\source\repos\WpfLab3\WpfLab3\obj\Debug\WpfLab3.pdb
