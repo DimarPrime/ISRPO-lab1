@@ -30,12 +30,12 @@ namespace Wpflab2
             db.Persons.Load();
             dgPeople.ItemsSource = db.Persons.Local.ToBindingList();
 
-            this.Closing += Window_Closing;
+            this.Closing += MainWindow_Closing;
         }
 
         
 
-        private void Window_Closing(object sender, System.ComponentModel.CancelEventArgs e)
+        private void MainWindow_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
             db.Dispose();
         }
