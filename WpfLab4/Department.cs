@@ -27,7 +27,7 @@ namespace WpfLab4
             set
             {
                 employees = value;
-                OnPropertyChanged("Players");
+                OnPropertyChanged("Employees");
             }
         }
         public event PropertyChangedEventHandler PropertyChanged;
