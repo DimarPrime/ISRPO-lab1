@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfLab5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfLab5"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <DockPanel Grid.Column="0">
+            <Canvas DockPanel.Dock="Top" Height="107" Width="700">
+                <TextBlock Text="Заказ №:" Canvas.Left="21" Canvas.Top="15" />
+                <TextBox Name="invoiceNumber" Width="228" Height="20" Canvas.Left="144" Canvas.Top="15" />
+                <DatePicker Name="invoiceDate" Text="fggf" Canvas.Left="410" Canvas.Top="15" />
+                <TextBlock Text="Поставщик" Width="70" Height="20" Canvas.Left="21" Canvas.Top="43"/>
+                <TextBox  Width="228" Height="20" Canvas.Left="144" Canvas.Top="72"  Name="PurchasertxtBox"/>
+                <TextBlock Text="Покупатель"  Width="70" Height="20" Canvas.Left="21" Canvas.Top="72" />
+                <TextBox  Width="228" Height="20" Canvas.Left="144" Canvas.Top="42" Name="ProvidertxtBox"/>
+            </Canvas>
+            <!--
+      класс для хранения данных о продуктах
+      TODO - добавьте колонку сумма (как в задании)
+    -->
+            <DataGrid DockPanel.Dock="Top" x:Name="dgData" AutoGenerateColumns="False" >
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="№" Binding="{Binding Id, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                    <DataGridTextColumn Header="Товар" Binding="{Binding Product, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <DataGridTextColumn Header="Количество, в кг" Binding="{Binding Count, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                    <DataGridTextColumn Header="Цена, в руб." Binding="{Binding Price, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <DataGridTextColumn Header="Сумма, в руб." Binding="{Binding Sum, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    <DataGridTextColumn Header="Итого, в руб." Binding="{Binding Total, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            
+            <Button DockPanel.Dock="Bottom" Content="Сформировать документ" Height="28" Margin="172,0,169.6,0" Click="Button_Click"/>
+        </DockPanel>
+
+    </Grid>
+</Window>

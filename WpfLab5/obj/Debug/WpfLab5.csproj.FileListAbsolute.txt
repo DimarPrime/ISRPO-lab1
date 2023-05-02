@@ -1,0 +1,17 @@
+C:\Users\dimar\source\repos\WpfLab5\bin\Debug\WpfLab5.exe.config
+C:\Users\dimar\source\repos\WpfLab5\bin\Debug\WpfLab5.exe
+C:\Users\dimar\source\repos\WpfLab5\bin\Debug\WpfLab5.pdb
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5.csproj.AssemblyReference.cache
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5.csproj.SuggestedBindingRedirects.cache
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5.csproj.ResolveComReference.cache
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\MainWindow.g.cs
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\App.g.cs
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5_MarkupCompile.cache
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5_MarkupCompile.lref
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\MainWindow.baml
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5.g.resources
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5.Properties.Resources.resources
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5.csproj.GenerateResource.cache
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5.exe
+C:\Users\dimar\source\repos\WpfLab5\obj\Debug\WpfLab5.pdb
