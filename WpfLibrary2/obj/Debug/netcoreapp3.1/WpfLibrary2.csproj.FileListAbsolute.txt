@@ -1,0 +1,10 @@
+C:\Users\dimar\source\repos\WpfLibrary2\bin\Debug\netcoreapp3.1\WpfLibrary2.deps.json
+C:\Users\dimar\source\repos\WpfLibrary2\bin\Debug\netcoreapp3.1\WpfLibrary2.dll
+C:\Users\dimar\source\repos\WpfLibrary2\bin\Debug\netcoreapp3.1\WpfLibrary2.pdb
+C:\Users\dimar\source\repos\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.csproj.AssemblyReference.cache
+C:\Users\dimar\source\repos\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\source\repos\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.AssemblyInfoInputs.cache
+C:\Users\dimar\source\repos\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.AssemblyInfo.cs
+C:\Users\dimar\source\repos\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\dimar\source\repos\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.dll
+C:\Users\dimar\source\repos\WpfLibrary2\obj\Debug\netcoreapp3.1\WpfLibrary2.pdb
